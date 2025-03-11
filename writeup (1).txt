@@ -1,0 +1,10 @@
+Changes made: (im sorry this is later than expected, any credit would be greatly appreciated but not expected, thank you.)
+1. The first change I made was from your reccomendations, which was to change the background color. I used vanta.js for my new interactive cloud background, which i think looks really nice. 
+2. One of the other suggestions you made was to add more information. I really like personal websites that encapsulate all of oneself, so I wanted to add some reccomendations for songs and albums, 
+since music is one of my favorite things in the world. I used your suggestion to make the lists more distinct here, aswell, as i made the albums and songs have different color borders, so its clear which 
+is which and groups them. 
+3. The third change was that my listes wered as distinct between each other as they could have been, so I added a border around them. 
+4. The fourth suggestion was adding some navigable menu options on the header, which I implemented through a button to take you to my reccomendations page, which itself has a button to return. This is
+my first event listener. 
+5. My fifth change was changing the size of the picture. 
+6. My second event listener was a customized greeting, so it reads a different greeting depending on the time of day. 
